@@ -34,6 +34,7 @@ The Numbers budget dataframe contained the production costs & box office gross. 
 
 Highest Rated Genres
 ![Top Rated Genres](https://github.com/karinagillian/Microsoft-template/assets/152271088/0f76f471-c289-477b-90d7-ccd42b260fb1)
+
 The above graph indicated the highest rated genres based on their IMDB scores. I would reccomend Microsoft choose from this list when selecting the movies they should make 
 1   Action,Documentary	8.0
 2   Animation,Crime,Documentary	8.0
@@ -46,16 +47,19 @@ The above graph indicated the highest rated genres based on their IMDB scores. I
 9	Documentary,Music,War	8.9
 10	Adventure,Drama,War	8.9
 
-Benefits of investing in exisiting franchises & intellectual properties
+***
+
+## Benefits of investing in exisiting franchises & intellectual properties
 ![Harry Potter](https://github.com/karinagillian/Microsoft-template/assets/152271088/64dd6122-4b76-42ff-9fd7-3731af8e2333)
-This graph clearly indictaes that across all the Harry Potter movies there was very little variation in production costs and with multiple movies staying within a similar budget. However, the profits increased. This shows that the movie series was extremely popular and continued to draw a growing audience but Warner Brothers did not necessarily need to invest more money into the production of the films meaning a higher profit margin and ROI. 
+
+This graph clearly indicates that across all the Harry Potter movies there was very little variation in production costs and with multiple movies staying within a similar budget. However, the profits increased. This shows that the movie series was extremely popular and continued to draw a growing audience but Warner Brothers did not necessarily need to invest more money into the production of the films meaning a higher profit margin and ROI. 
 
 
 
 ![giphy-5](https://github.com/karinagillian/Microsoft-template/assets/152271088/5ac224ca-49d5-4132-b50c-2f8c3818d6e8)
 
 
-
+***
 
 ## Repository Structure
 
