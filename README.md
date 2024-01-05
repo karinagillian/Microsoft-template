@@ -52,6 +52,7 @@ This graph clearly indictaes that across all the Harry Potter movies there was v
 
 
 
+![giphy-5](https://github.com/karinagillian/Microsoft-template/assets/152271088/5ac224ca-49d5-4132-b50c-2f8c3818d6e8)
 
 
 
@@ -62,7 +63,7 @@ Describe the structure of your repository and its contents, for example:
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── DSC-phase1-project-microsoft.py   <- Narrative documentation of analysis in Jupyter notebook
 ├── DS_Project_Presentation.pdf         <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
