@@ -1,7 +1,9 @@
 # Microsoft Movie Studios Pitch
 Author: Karina
 
-![Microsoft Movie](https://github.com/karinagillian/Microsoft-template/assets/152271088/1ed5c865-fabb-4044-a93e-bc9bfdf8cef5)
+![Screenshot 2024-01-06 105733](https://github.com/karinagillian/Microsoft-template/assets/152271088/ac949f04-6fa7-4440-b259-40126c011d15)
+
+
 
 ## Overview
 
