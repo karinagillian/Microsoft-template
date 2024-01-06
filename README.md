@@ -36,15 +36,25 @@ Highest Rated Genres
 ![Top Rated Genres](https://github.com/karinagillian/Microsoft-template/assets/152271088/0f76f471-c289-477b-90d7-ccd42b260fb1)
 
 The above graph indicated the highest rated genres based on their IMDB scores. I would reccomend Microsoft choose from this list when selecting the movies they should make 
+
 1   Action,Documentary	8.0
+
 2   Animation,Crime,Documentary	8.0
+
 3	Animation,Fantasy,Mystery	8.0
+
 4	Comedy,Musical,Sci-Fi	8.0
+
 5	Documentary,Romance	8.1
+
 6	Animation,Documentary,Mystery	8.2
+
 7	Animation,Crime,Mystery	8.2
+
 8	Animation,History	8.3
+
 9	Documentary,Music,War	8.9
+
 10	Adventure,Drama,War	8.9
 
 ***
